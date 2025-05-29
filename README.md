@@ -2,6 +2,10 @@
 
 This is a **MERN Stack-based** Tea Factory Management System developed by **Anuradha Dilruwan** as a final year project. The system streamlines tea factory operations, improves productivity, and provides AI-driven forecasting to help decision-making for factory managers and estate owners.
 
+👨‍💻 Author
+Anuradha Dilruwan
+Final Year Undergraduate - Software Engineering
+
 ## 🔍 Project Highlights
 
 - 🌱 Tea supply chain digitization
@@ -24,5 +28,7 @@ This is a **MERN Stack-based** Tea Factory Management System developed by **Anur
 ```bash
 git clone https://github.com/Dilruwan21/tea-factory-management.git
 cd tea-factory-management
+
+
 
 
